@@ -1,1 +1,1 @@
-# Eye-for-Blind
+#Credit EDA Case Study
